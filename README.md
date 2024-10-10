@@ -9,7 +9,7 @@ He estado de prácticas en distintas multinacionales del sector, como la consult
 ## Contacto:
 [![Email](https://img.shields.io/badge/gllrmglrncn2001@gmail.com-email_personal_(respuesta_rapida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gllrmglrncn2001@gmail.com)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_Gil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/guillermo-gil-b62b79193/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Guillermo_Gil-(respuesta_lenta)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/guillermo-gil-b62b79193/)
 
 <!--
 **guillegr01/guillegr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
