@@ -1,4 +1,4 @@
-#Hola, mi nombre es Guillermo Gil Rincón 👋
+# Hola, mi nombre es Guillermo Gil Rincón 👋
 ### IT engineering student & junior developer
 
 
@@ -7,8 +7,9 @@ Soy tecnico superior en desarrollo de aplicaciones multiplataforma desde 2021, y
 He estado de prácticas en distintas multinacionales del sector, como la consultora NTT DATA o INDRA, en la cuál me encuentro actualmente.
 
 ## Contacto:
-[![Email](https://img.shields.io/badge/gllrmglrncn2001@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gllrmglrncn2001@gmail.com)
+[![Email](https://img.shields.io/badge/gllrmglrncn2001@gmail.com-email_personal_(respuesta_rapida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gllrmglrncn2001@gmail.com)
 </br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_Gil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/guillermo-gil-b62b79193/)
 
 <!--
 **guillegr01/guillegr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
